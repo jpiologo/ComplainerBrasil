@@ -42,5 +42,5 @@ Se você deseja contribuir para este projeto:
 
 ---
 
-🛠️ **Desenvolvido para promover transparência e participação cidadã.** 🇧🇷
+🛠️ **Desenvolvido para promover transparência e participação cidadã.** 🇧🇷\
 *Projeto idealizado por João Gabriel Tulio Piologo*
