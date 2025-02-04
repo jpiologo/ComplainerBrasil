@@ -1,5 +1,7 @@
 # 📢 Complainer - Brasil
 
+[Miro Project](https://miro.com/app/board/uXjVLkHQF-0=/)
+
 ## 📌 Sobre o Projeto
 O **Complainer - Brasil** é uma plataforma digital voltada para informar e empoderar os cidadãos brasileiros sobre o funcionamento do governo, os impostos pagos, os gastos públicos e as ações dos políticos, possibilitando também que com apenas um clique, o cidadão possa cobrar medidas de determinado político baseado em suas ações recentes e até mesmo denuncia-lo. O principal objetivo do projeto é facilitar a fiscalização dos representantes políticos e oferecer meios diretos para que a população possa cobrá-los de suas decisões e posicionamentos, oferecendo direção e voz ao povo brasileiro.
 
